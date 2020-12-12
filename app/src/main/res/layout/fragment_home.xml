@@ -11,7 +11,7 @@
         android:layout_gravity="center"
         android:layout_marginTop="10dp"
         android:fontFamily="@font/montserrat"
-        android:text="Welcome!"
+        android:text="Welcome to GymBro!"
         android:textColor="@android:color/white"
         android:textSize="30sp" />
 
@@ -21,16 +21,5 @@
         android:layout_height="150dp"
         android:layout_marginTop="20dp"
         app:srcCompat="@drawable/logo" />
-
-    <TextView
-        android:id="@+id/gymBroTitle"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center"
-        android:layout_marginTop="10dp"
-        android:fontFamily="@font/montserrat"
-        android:text="GymBro"
-        android:textColor="@android:color/white"
-        android:textSize="30sp" />
 
 </LinearLayout>
